@@ -32,6 +32,7 @@ public class YingYang extends Application {
     public void draw(FXGraphics2D graphics) {
         GeneralPath path1 = new GeneralPath();
 
+        graphics.setColor(Color.black);
         path1.moveTo(450 ,150 );
         graphics.draw(new Ellipse2D.Double( 250, 150,400, 400));
 
@@ -40,9 +41,6 @@ public class YingYang extends Application {
         path1.curveTo(720, 545, 720, 145, 450,150);
         path1.closePath();
 
-        Ellipse2D ellipse2D
-
-        graphics.setColor(Color.black);
         graphics.fill(path1);
 
         Ellipse2D blackCircle  = new Ellipse2D.Double(425, 225, 50, 50);
@@ -50,6 +48,11 @@ public class YingYang extends Application {
         graphics.fill(blackCircle);
 
         graphics.draw(path1);
+
+        graphics.setColor(Color.white);
+        Ellipse2D whiteCircle = new Ellipse2D.Double(425, 425, 50, 50);
+        graphics.fill(whiteCircle);
+
     }
 
 
