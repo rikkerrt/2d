@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b8269f0-73cf-44b1-a794-a216efe19381" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week2/006.BlockDrag/src/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TI1.3-2DGraphics-Opdrachten.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TI1.3-2DGraphics-Opdrachten.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/006.BlockDrag/src/Block.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/004.GradientPaint/src/GradientPaintExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week2/004.GradientPaint/src/GradientPaintExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/005.Mirror/src/Mirror.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week2/005.Mirror/src/Mirror.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week2/006.BlockDrag/src/BlockDrag.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week2/006.BlockDrag/src/BlockDrag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/006.BlockDrag/src/Rectangle.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,28 +39,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BlockDrag.executor": "Run",
-    "Application.GradientPaintExercise.executor": "Run",
-    "Application.Mirror.executor": "Run",
-    "Application.testGraph.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BlockDrag.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GradientPaintExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mirror.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testGraph.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="GradientPaintExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GradientPaintExercise" />
@@ -96,6 +92,7 @@
       <updated>1706989406096</updated>
       <workItem from="1708952554170" duration="8951000" />
       <workItem from="1709059688416" duration="1471000" />
+      <workItem from="1709562296203" duration="4555000" />
     </task>
     <servers />
   </component>
